@@ -2,7 +2,7 @@
 - generative: learn $p(x,y)$
 - discriminative: learn $p(y|x)$
 我们回想WSD问题，我们使用朴素贝叶斯，目标是
-$y^{*}=\argmin_{y} p(y|x)=\argmin_y p(x|y)p(y)=\argmin_y p(x,y)$
+$y^{*}=argmin_{y} p(y|x)=argmin_y p(x|y)p(y)=argmin_y p(x,y)$
 
 这里也就是说，尽管我们的目标是条件概率，但是我们的分类器在训练数据上使用统计学习的方法学到的结果并不是条件概率的确切值，而是联合概率密度的分布值。
 
@@ -48,3 +48,15 @@ $P(\theta|D)=\frac{P(D|\theta)P(\theta)}{P(D)}$
 
 *这本质上要求的是参数对训练数据的完美拟合*
 
+# Parameter Estimations
+
+
+# Regularization
+避免模型对于训练数据的过度拟合，即由于训练数据中出现的一些分布偏差，可能训练出的权重会过度依赖某一个特征。
+所以如果一个特征和一个标签总是同时出现，为了拟合这个结果，在没有约束的情况下，feature对应的权重$\lambda$会趋近于无穷。
+这在测试集中可能会带来问题。
+
+![[FNLP/lec2/lec3_loglinear.webp]]
+
+[[lec3_loglinear.pdf#page=109&rect=5,27,358,238|lec3_loglinear, p.30]]
+使用正则化可以在一定程度甚至很大程度上避免上面的问题。

@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "4576dfc7e5cad207",
+    "type": "split",
+    "children": [
+      {
+        "id": "947d98db8d15cfc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d4e14ee270f780d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FNLP/chap8/note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "note"
+            }
+          }
+        ]
+      },
+      {
+        "id": "50538effcfdaaf54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2284fa2d0c8494d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "FNLP/chap8/8.pdf",
+                "page": 23,
+                "left": 111,
+                "top": 244,
+                "zoom": 1.44
+              },
+              "icon": "lucide-file-text",
+              "title": "8"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fd1f218656eba24e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecd9c80a8c934414",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe889f582883e34d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "34526f37c6660d06",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "65b9c801151234dc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "701304a6807a0372",
+    "type": "split",
+    "children": [
+      {
+        "id": "4445f9865eb69a2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfe20611fd3f4728",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "FNLP/lec3/lec4_pre.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "lec4_pre 的反向链接列表"
+            }
+          },
+          {
+            "id": "e52b7d8151abb8d2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "FNLP/lec3/lec4_pre.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "lec4_pre 的出链列表"
+            }
+          },
+          {
+            "id": "5ab3440aa79ab58b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "625ca1359fb903fb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "ef4da60d7a7a7ebb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "FNLP/lec3/lec4_pre.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "lec4_pre 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
+    }
+  },
+  "active": "9d4e14ee270f780d",
+  "lastOpenFiles": [
+    "FNLP/chap8/8.pdf",
+    "FNLP/chap8/note.md",
+    "FNLP/chap8/8 10.webp",
+    "FNLP/chap8/8 9.webp",
+    "FNLP/chap8/8 8.webp",
+    "FNLP/chap8/8 7.webp",
+    "FNLP/chap8/8 6.webp",
+    "FNLP/chap8/8 5.webp",
+    "FNLP/chap8/8 4.webp",
+    "FNLP/chap8/8 3.webp",
+    "FNLP/chap8/8 2.webp",
+    "FNLP/chap8/8 1.webp",
+    "FNLP/6.pdf",
+    "FNLP/chap8",
+    "FNLP/新建文件夹",
+    "FNLP/chap4/note.md",
+    "FNLP/chap4/4.pdf",
+    "FNLP/chap5/note.md",
+    "FNLP/chap5/5.pdf",
+    "FNLP/lec3/note.md",
+    "FNLP/lec3/lec4_nlm.pdf",
+    "FNLP/6.pdf.crdownload",
+    "FNLP/lec3/lec4_lm.pdf",
+    "FNLP/lec3/lec4_pre.pdf",
+    "JAPAN/lec3/企业主义：理解日本经济的起点.md",
+    "FNLP/lec2/note.md",
+    "FNLP/lec3/笔记.md",
+    "Camera/blog/note.md",
+    "USA/lecture1/political.md"
+  ]
+}
