@@ -4,43 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "947d98db8d15cfc2",
+        "id": "2391f01114400e23",
         "type": "tabs",
         "children": [
           {
-            "id": "9d4e14ee270f780d",
+            "id": "557242035b76fe59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FNLP/chap8/note.md",
+                "file": "FNLP/DependencyParsing/Dependency Parsing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "note"
+              "title": "Dependency Parsing"
             }
           }
         ]
       },
       {
-        "id": "50538effcfdaaf54",
+        "id": "fe566442a9e5bc46",
         "type": "tabs",
         "children": [
           {
-            "id": "e2284fa2d0c8494d",
+            "id": "41aafae82b6833c6",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "FNLP/chap8/8.pdf",
-                "page": 23,
-                "left": 111,
-                "top": 244,
-                "zoom": 1.44
+                "file": "FNLP/DependencyParsing/19.pdf",
+                "page": 21,
+                "left": 66,
+                "top": 98,
+                "zoom": 1.54
               },
               "icon": "lucide-file-text",
-              "title": "8"
+              "title": "19"
             }
           }
         ]
@@ -210,36 +210,52 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "9d4e14ee270f780d",
+  "active": "41aafae82b6833c6",
   "lastOpenFiles": [
-    "FNLP/chap8/8.pdf",
-    "FNLP/chap8/note.md",
-    "FNLP/chap8/8 10.webp",
-    "FNLP/chap8/8 9.webp",
-    "FNLP/chap8/8 8.webp",
-    "FNLP/chap8/8 7.webp",
-    "FNLP/chap8/8 6.webp",
-    "FNLP/chap8/8 5.webp",
-    "FNLP/chap8/8 4.webp",
-    "FNLP/chap8/8 3.webp",
-    "FNLP/chap8/8 2.webp",
-    "FNLP/chap8/8 1.webp",
-    "FNLP/6.pdf",
-    "FNLP/chap8",
-    "FNLP/新建文件夹",
-    "FNLP/chap4/note.md",
-    "FNLP/chap4/4.pdf",
-    "FNLP/chap5/note.md",
-    "FNLP/chap5/5.pdf",
+    "FNLP/DependencyParsing/Dependency Parsing.md",
+    "FNLP/DependencyParsing/Pasted image 20260425115239.png",
+    "FNLP/DependencyParsing/19.pdf",
+    "FNLP/lec7_phrase.pdf",
+    "FNLP/posTagging/18.pdf",
+    "FNLP/DependencyParsing",
+    "FNLP/posTagging/note.md",
+    "FNLP/19.pdf.crdownload",
+    "JAPAN/lect8/连接企业的组织与技术战略.md",
+    "USA/lecture7/美国移民政策.md",
+    "JAPAN/lect8",
+    "Flow-matching-and-diffusion/blog.md",
+    "USA/lecture7",
+    "FNLP/posTagging/18 2.webp",
+    "FNLP/posTagging/18 1.webp",
+    "FNLP/posTagging/18.webp",
+    "FNLP/posTagging/Pasted image 20260417135236.png",
+    "FNLP/posTagging/17.pdf",
+    "FNLP/posTagging/17 5.webp",
+    "FNLP/posTagging/17 4.webp",
+    "FNLP/posTagging/17 3.webp",
+    "FNLP/posTagging/Pasted image 20260416144623.png",
+    "FNLP/posTagging/17 2.webp",
+    "FNLP/lec6_seq.pdf",
+    "FNLP/posTagging/note",
     "FNLP/lec3/note.md",
-    "FNLP/lec3/lec4_nlm.pdf",
-    "FNLP/6.pdf.crdownload",
-    "FNLP/lec3/lec4_lm.pdf",
-    "FNLP/lec3/lec4_pre.pdf",
-    "JAPAN/lec3/企业主义：理解日本经济的起点.md",
-    "FNLP/lec2/note.md",
-    "FNLP/lec3/笔记.md",
-    "Camera/blog/note.md",
-    "USA/lecture1/political.md"
+    "JAPAN/lec7/日本企业经营战略.md",
+    "JAPAN/lec4/长期交易(1)：金融市场之中的交易.md",
+    "JAPAN/lec5/劳动.md",
+    "JAPAN/lec6/制品市场中的交易.md",
+    "USA/lecture6/医疗体系.md",
+    "Software-construction/reading8/Avoiding Debugging.md",
+    "Software-construction/reading7/Design specifications.md",
+    "Software-construction/Reading6/6.specifications.md",
+    "Software-construction/Reading6/Specifications.md",
+    "Software-construction/reading5/Git.md",
+    "Software-construction/reading4/Code Review.md",
+    "Software-construction/reading3/testing.md",
+    "FNLP/HMM/Note.md",
+    "FNLP/chap2/note.md",
+    "未命名.md",
+    "FNLP/chap5/note.md",
+    "Computer-Structure/330/mit5/Sequential Logic.md",
+    "Computer-Structure/330/mit4/combinational logic.md",
+    "Computer-Structure/330/mit3/cmos.md"
   ]
 }
