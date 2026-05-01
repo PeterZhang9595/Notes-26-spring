@@ -4,43 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2391f01114400e23",
+        "id": "aa29224afe2b7297",
         "type": "tabs",
         "children": [
           {
-            "id": "557242035b76fe59",
+            "id": "93aef83f3807b20e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FNLP/DependencyParsing/Dependency Parsing.md",
+                "file": "JAPAN/lec9/企业创新.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dependency Parsing"
-            }
-          }
-        ]
-      },
-      {
-        "id": "fe566442a9e5bc46",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "41aafae82b6833c6",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "FNLP/DependencyParsing/19.pdf",
-                "page": 21,
-                "left": 66,
-                "top": 98,
-                "zoom": 1.54
-              },
-              "icon": "lucide-file-text",
-              "title": "19"
+              "title": "企业创新"
             }
           }
         ]
@@ -100,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "701304a6807a0372",
@@ -117,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FNLP/lec3/lec4_pre.pdf",
+                "file": "FNLP/DependencyParsing/Dependency Parsing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "lec4_pre 的反向链接列表"
+              "title": "Dependency Parsing 的反向链接列表"
             }
           },
           {
@@ -210,52 +187,53 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "41aafae82b6833c6",
+  "active": "93aef83f3807b20e",
   "lastOpenFiles": [
+    "Flow-matching-and-diffusion/blog/image.png",
+    "Flow-matching-and-diffusion/blog/blog.md",
+    "Flow-matching-and-diffusion/blog",
+    "JAPAN/lec8/连接企业的组织与技术战略.md",
+    "JAPAN/lec9/企业创新.md",
+    "JAPAN/lec9",
+    "JAPAN/未命名.md",
     "FNLP/DependencyParsing/Dependency Parsing.md",
-    "FNLP/DependencyParsing/Pasted image 20260425115239.png",
     "FNLP/DependencyParsing/19.pdf",
+    "FNLP/HMM/Note.md",
+    "FNLP/chap5/note.md",
+    "USA/lecture8/少数族裔管理.md",
+    "USA/lecture8",
+    "FNLP/chap13/RNN and LSTM.md",
+    "FNLP/6.pdf",
+    "FNLP/lec3/Pasted image 20260329214858 1.png",
+    "FNLP/chap7/Large Language Models.md",
+    "FNLP/lec3/note.md",
+    "FNLP/chap3/note.md",
+    "FNLP/chap4/note.md",
+    "FNLP/lec2/note.md",
+    "FNLP/lec2/lec3_loglinear.pdf",
+    "FNLP/lec1WSD/note.md",
+    "FNLP/DependencyParsing/Pasted image 20260425115239.png",
     "FNLP/lec7_phrase.pdf",
     "FNLP/posTagging/18.pdf",
     "FNLP/DependencyParsing",
     "FNLP/posTagging/note.md",
     "FNLP/19.pdf.crdownload",
-    "JAPAN/lect8/连接企业的组织与技术战略.md",
     "USA/lecture7/美国移民政策.md",
-    "JAPAN/lect8",
     "Flow-matching-and-diffusion/blog.md",
-    "USA/lecture7",
     "FNLP/posTagging/18 2.webp",
     "FNLP/posTagging/18 1.webp",
     "FNLP/posTagging/18.webp",
     "FNLP/posTagging/Pasted image 20260417135236.png",
-    "FNLP/posTagging/17.pdf",
     "FNLP/posTagging/17 5.webp",
     "FNLP/posTagging/17 4.webp",
     "FNLP/posTagging/17 3.webp",
     "FNLP/posTagging/Pasted image 20260416144623.png",
-    "FNLP/posTagging/17 2.webp",
-    "FNLP/lec6_seq.pdf",
-    "FNLP/posTagging/note",
-    "FNLP/lec3/note.md",
     "JAPAN/lec7/日本企业经营战略.md",
     "JAPAN/lec4/长期交易(1)：金融市场之中的交易.md",
     "JAPAN/lec5/劳动.md",
     "JAPAN/lec6/制品市场中的交易.md",
     "USA/lecture6/医疗体系.md",
     "Software-construction/reading8/Avoiding Debugging.md",
-    "Software-construction/reading7/Design specifications.md",
-    "Software-construction/Reading6/6.specifications.md",
-    "Software-construction/Reading6/Specifications.md",
-    "Software-construction/reading5/Git.md",
-    "Software-construction/reading4/Code Review.md",
-    "Software-construction/reading3/testing.md",
-    "FNLP/HMM/Note.md",
-    "FNLP/chap2/note.md",
-    "未命名.md",
-    "FNLP/chap5/note.md",
-    "Computer-Structure/330/mit5/Sequential Logic.md",
-    "Computer-Structure/330/mit4/combinational logic.md",
-    "Computer-Structure/330/mit3/cmos.md"
+    "Software-construction/reading7/Design specifications.md"
   ]
 }
